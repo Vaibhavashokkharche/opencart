@@ -1,0 +1,56 @@
+17:43:32.167 [main] ERROR testCases.AccountRegistrationTest - Test Faild
+17:43:32.171 [main] INFO  testCases.AccountRegistrationTest - ********Finished TC_001AccountRegistertest 
+17:43:35.604 [main] INFO  testCases.Tc_002LoginTest - ****Starting the Login Test***
+17:43:36.120 [main] INFO  testCases.Tc_002LoginTest - ** navigationg towards Login  Page
+17:43:37.178 [main] INFO  testCases.Tc_002LoginTest - LogintestFinished
+17:44:16.387 [main] INFO  testCases.AccountRegistrationTest - ********Strating TC_001AccountRegistertest 
+17:44:16.400 [main] ERROR testCases.AccountRegistrationTest - Test Faild
+17:44:16.400 [main] INFO  testCases.AccountRegistrationTest - ********Finished TC_001AccountRegistertest 
+17:44:19.417 [main] INFO  testCases.Tc_002LoginTest - ****Starting the Login Test***
+17:44:19.915 [main] INFO  testCases.Tc_002LoginTest - ** navigationg towards Login  Page
+17:44:20.878 [main] INFO  testCases.Tc_002LoginTest - LogintestFinished
+17:45:20.611 [main] INFO  testCases.AccountRegistrationTest - ********Strating TC_001AccountRegistertest 
+17:45:20.625 [main] ERROR testCases.AccountRegistrationTest - Test Faild
+17:45:20.626 [main] INFO  testCases.AccountRegistrationTest - ********Finished TC_001AccountRegistertest 
+17:45:24.624 [main] INFO  testCases.Tc_002LoginTest - ****Starting the Login Test***
+17:45:25.049 [main] INFO  testCases.Tc_002LoginTest - ** navigationg towards Login  Page
+17:45:26.035 [main] INFO  testCases.Tc_002LoginTest - LogintestFinished
+15:06:35.181 [main] INFO  testCases.AccountRegistrationTest - ********Strating TC_001AccountRegistertest 
+15:06:35.205 [main] ERROR testCases.AccountRegistrationTest - Test Faild
+15:06:35.205 [main] INFO  testCases.AccountRegistrationTest - ********Finished TC_001AccountRegistertest 
+15:06:35.234 [main] INFO  testCases.Tc_002LoginTest - ****Starting the Login Test***
+15:11:49.500 [main] INFO  testCases.AccountRegistrationTest - ********Strating TC_001AccountRegistertest 
+15:11:49.529 [main] ERROR testCases.AccountRegistrationTest - Test Faild
+15:11:49.529 [main] INFO  testCases.AccountRegistrationTest - ********Finished TC_001AccountRegistertest 
+15:11:53.110 [main] INFO  testCases.Tc_002LoginTest - ****Starting the Login Test***
+15:11:53.515 [main] INFO  testCases.Tc_002LoginTest - ** navigationg towards Login  Page
+15:11:54.605 [main] INFO  testCases.Tc_002LoginTest - LogintestFinished
+15:15:05.256 [main] INFO  testCases.AccountRegistrationTest - ********Strating TC_001AccountRegistertest 
+15:15:05.277 [main] ERROR testCases.AccountRegistrationTest - Test Faild
+15:15:05.278 [main] INFO  testCases.AccountRegistrationTest - ********Finished TC_001AccountRegistertest 
+15:15:08.849 [main] INFO  testCases.Tc_002LoginTest - ****Starting the Login Test***
+15:15:09.318 [main] INFO  testCases.Tc_002LoginTest - ** navigationg towards Login  Page
+15:15:10.616 [main] INFO  testCases.Tc_002LoginTest - LogintestFinished
+15:18:47.768 [main] INFO  testCases.AccountRegistrationTest - ********Strating TC_001AccountRegistertest 
+15:18:47.780 [main] ERROR testCases.AccountRegistrationTest - Test Faild
+15:18:47.780 [main] INFO  testCases.AccountRegistrationTest - ********Finished TC_001AccountRegistertest 
+15:18:50.479 [main] INFO  testCases.Tc_002LoginTest - ****Starting the Login Test***
+15:18:51.005 [main] INFO  testCases.Tc_002LoginTest - ** navigationg towards Login  Page
+15:18:52.108 [main] INFO  testCases.Tc_002LoginTest - LogintestFinished
+15:20:32.553 [main] INFO  testCases.AccountRegistrationTest - ********Strating TC_001AccountRegistertest 
+15:20:32.566 [main] ERROR testCases.AccountRegistrationTest - Test Faild
+15:20:32.566 [main] INFO  testCases.AccountRegistrationTest - ********Finished TC_001AccountRegistertest 
+15:20:35.250 [main] INFO  testCases.Tc_002LoginTest - ****Starting the Login Test***
+15:20:35.752 [main] INFO  testCases.Tc_002LoginTest - ** navigationg towards Login  Page
+15:20:36.930 [main] INFO  testCases.Tc_002LoginTest - LogintestFinished
+15:20:37.501 [main] INFO  testCases.AccountRegistrationTest - ********Strating TC_001AccountRegistertest 
+15:20:37.502 [main] ERROR testCases.AccountRegistrationTest - Test Faild
+15:20:37.502 [main] INFO  testCases.AccountRegistrationTest - ********Finished TC_001AccountRegistertest 
+15:20:37.512 [main] INFO  testCases.Tc_002LoginTest - ****Starting the Login Test***
+15:27:34.369 [main] INFO  testCases.AccountRegistrationTest - ********Strating TC_001AccountRegistertest 
+15:27:34.385 [main] ERROR testCases.AccountRegistrationTest - Test Faild
+15:27:34.385 [main] INFO  testCases.AccountRegistrationTest - ********Finished TC_001AccountRegistertest 
+15:27:36.650 [main] INFO  testCases.Tc_002LoginTest - ****Starting the Login Test***
+15:27:37.121 [main] INFO  testCases.Tc_002LoginTest - ** navigationg towards Login  Page
+15:27:38.132 [main] INFO  testCases.Tc_002LoginTest - LogintestFinished
+15:27:43.850 [main] INFO  testCases.AccountRegistrationTest - ********Strating TC_001AccountRegistertest 
