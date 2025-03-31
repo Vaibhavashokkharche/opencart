@@ -7,11 +7,16 @@
 <test thread-count="5" name="Test">
   <parameter name="os" value="Windows"/>
 <parameter name="browser" value="chrome"/>
-    <classes>
-     <class name="testCases.AccountRegistrationTest" />
-	<class name="testCases.Tc_002LoginTest" />
-
-	<!--  <class name="testCases.LoginDDT" />-->
-        </classes>
+	<classes>
+		<!-- <class name="testCases.AccountRegistrationTest" /> -->
+		<!-- <class name="testCases.Tc_002LoginTest" /> -->
+		<!-- class name="testCases.TS002SerachProduct"/> -->
+		<!-- <class name="testCases.Tc__001HomePageExists" /> -->
+		<!-- <class name="testCases.Tc__004Addtocart"/> -->
+		<class name="testCases.Tc__005ProductRemoveFormCart"/>
+		
+		
+		<!-- <class name="testCases.LoginDDT" /> -->
+	</classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

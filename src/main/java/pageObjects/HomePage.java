@@ -13,6 +13,8 @@ public HomePage(WebDriver driver) {
 @FindBy(xpath="//span[normalize-space()='My Account']") WebElement txt_myaccount;
 @FindBy(xpath="//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Register']") WebElement txt_register;
 @FindBy(xpath="//a[normalize-space()='Login']")WebElement txt_login;
+@FindBy(xpath="//input[@placeholder='Search']") WebElement search_box;
+
 
 
 //Action method
@@ -26,5 +28,9 @@ public void ClickRegister() {
 public void ClickLogin() {  //Update in Login Test 
 	txt_login.click();
 }
+public void ClickOnSerachBOX() {
+	search_box.click();
+}
+
 
 }
